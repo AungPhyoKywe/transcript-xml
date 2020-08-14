@@ -5,8 +5,13 @@ Opendata repository which contain digitized version of Parilamentary Transcripts
 - [Amyotha Hluttaw (Upper House)](https://www.amyotha.hluttaw.mm/)
 - [Pyidaungsu Hluttaw (Union House)](https://pyidaungsu.hluttaw.mm/)
 
-
+  ## File Names
+  File names contains six digits like this ``02-16-01.xml``. Fist two digit stands for Term, the middle two digit stands for Session and Last two digits stands for Sitting Day.
+  So ``02-16-01.xml`` means Second Term, 16th Session, First Sitting Day.
+  
 ## Directory Structure 
+Root directories are divided by their terms and in the sub directory files are again divided by House and File type. The directory structure is as follow.
+
 - First Term
   - lower
     - pdf (Contains all the PDF files from the First Term Lower House)
@@ -25,6 +30,4 @@ Opendata repository which contain digitized version of Parilamentary Transcripts
     - pdf (Contains all the PDF files from the Second Term Union House)
     - xml (Contains all the xml files from the Second Term Union House)
    
-  ## File Names
-  File names contains six digits like this ``02-16-01.xml``. Fist two digit stands for Term, the middle two digit stands for Session and Last two digits stands for Sitting Day.
-  So ``02-16-01.xml`` means Second Term, 16th Session, First Sitting Day.
+
