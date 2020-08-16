@@ -39,4 +39,4 @@ Draft paper of the digitization process is available [here](https://docs.google.
 
 2. Attribute the data as the "Parliamentary Transcripts By The Aananda and the url: https://github.com/theananda/transcript-xml/
 
-
+3. There is no warranty and we shell not guarantee that the dataset is 100% accurate.  [Here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRG7mAu5ytTRdXJ1iV6fit-mVhv1Dk3hzw1FBDAFW7MWRm4Vn3R2rHcRNftxsEqivi3pZPjOOMHXScs/pubhtml) is the list of available files in this repository. Please always make sure to cross check with original PDF files and always cite back to the respective Hluttaw Webpages.
