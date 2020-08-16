@@ -1,6 +1,6 @@
-# Parliamentary Transcripts
+# Myanmar Parliamentary Transcripts Data Repository by The Ananda
 
-Opendata repository which contain digitized version of Parilamentary Transcripts from 
+This is the open data repository for the digitized parliamentary transcripts from 
 - [Pyithu Hluttaw (Lower House)](https://www.pyithuhluttaw.gov.mm/)
 - [Amyotha Hluttaw (Upper House)](https://www.amyotha.hluttaw.mm/)
 - [Pyidaungsu Hluttaw (Union House)](https://pyidaungsu.hluttaw.mm/)
@@ -25,5 +25,18 @@ Root directories are divided by their terms and in the sub directory files are a
   - union
     - xml (Second Term Union House)
    
-## How we did it
+<b>Digitization Process</b>
+
 Draft paper of the digitization process is available [here](https://docs.google.com/document/d/e/2PACX-1vR99NGl48LqOJsl8nwoGtrP0sOEBiGtPq9V4e2bWRuLQgj2MEsIorqNThiDYFJcwDKTy7kDpLjTJGBB/pub)
+
+<b>Contact Us: </b>
+
+* Email: hello@theananda.org
+
+<b>Terms of Use:</b>
+
+1. This data repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) by The Ānanda .
+
+2. Attribute the data as the "Parliamentary Transcripts By The Aananda and the url: https://github.com/theananda/transcript-xml/
+
+
