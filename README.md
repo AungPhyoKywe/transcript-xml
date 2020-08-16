@@ -14,21 +14,16 @@ Root directories are divided by their terms and in the sub directory files are a
 
 - First Term
   - lower
-    - pdf (Contains all the PDF files from the First Term Lower House)
-    - xml (Contains all the xml files from the First Term Lower House)
+    - xml (First Term Lower House)
   - upper
-    - pdf (Contains all the PDF files from the First Term Upper House)
-    - xml (Contains all the xml files from the First Term Upper House)
+    - xml (First Term Upper House)
 - Second Term
   - lower
-    - pdf (Contains all the PDF files from the Second Term Lower House)
-    - xml (Contains all the xml files from the Second Term Lower House)
+    - xml (Second Term Lower House)
   - upper
-    - pdf (Contains all the PDF files from the Second Term Upper House)
-    - xml (Contains all the xml files from the Second Term Upper House)
+    - xml (Second Term Upper House)
   - union
-    - pdf (Contains all the PDF files from the Second Term Union House)
-    - xml (Contains all the xml files from the Second Term Union House)
+    - xml (Second Term Union House)
    
 ## How we did it
 Draft paper of the digitization process is available [here](https://docs.google.com/document/d/e/2PACX-1vR99NGl48LqOJsl8nwoGtrP0sOEBiGtPq9V4e2bWRuLQgj2MEsIorqNThiDYFJcwDKTy7kDpLjTJGBB/pub)
